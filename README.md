@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dy-jose
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning C++ and Golang
